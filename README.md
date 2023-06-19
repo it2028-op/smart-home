@@ -4,3 +4,7 @@
 * seznámení se s principy zajištění datové konektivity technologie KNX
 * návrh a tvorba vizualizačního prostředí pro automatizaci budov pomocí technologie KNX 
 * ověření dosažených výsledků
+## Možná doplnění
+* Monitorování počtu osob v místnosti
+* vzdálené ovládání automatizace budov pomocí mobilního zařízení nebo notebooku
+### Samuel Vaňuš IT4 2023/24
