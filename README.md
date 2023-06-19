@@ -6,5 +6,5 @@
 * ověření dosažených výsledků
 ## Možná doplnění
 * Monitorování počtu osob v místnosti
-* vzdálené ovládání automatizace budov pomocí mobilního zařízení nebo notebooku
-**Samuel Vaňuš IT4 2023/24
+* vzdálené ovládání automatizace budov pomocí mobilního zařízení nebo notebooku \n
+**Samuel Vaňuš IT4 2023/24**
