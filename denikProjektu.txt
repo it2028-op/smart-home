@@ -1,0 +1,7 @@
+2.10 	- nahrání světel a žaluzií
+6.10 	- Výměna kufříku 3 za kufřík 5 (technické problémy)
+     	- Reorganizace skupinových adres
+	- Vizualizace 1
+13.10	- nahrání simulace spotřebičů
+	- vizualizace 2 (2-26:50)
+17.10	- nahrání na github + video vizualizace základních přístrojů ve wiseru

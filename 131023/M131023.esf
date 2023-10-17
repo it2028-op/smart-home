@@ -1,0 +1,48 @@
+Maturita2024
+Lights.Light 1.1/0/0	Light 1 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Lights.Light 1.1/0/1	Light 1 dimming	EIS 2 'Dimming - control' (4 Bit)	Low	
+Lights.Light 1.1/0/2	Light 1 status	Uncertain (1 Byte)	Low	
+Lights.Light 2.1/1/2	Light 2 status	Uncertain (1 Byte)	Low	
+Lights.Light 2.1/1/1	Light 2 dimming	EIS 2 'Dimming - control' (4 Bit)	Low	
+Lights.Light 2.1/1/0	Light 2 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Lights.Light 3.1/2/2	Light 3 status	Uncertain (1 Byte)	Low	
+Lights.Light 3.1/2/1	Light 3 dimming	EIS 2 'Dimming - control' (4 Bit)	Low	
+Lights.Light 3.1/2/0	Light 3 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Lights.Light DALI.1/3/2	DALI dimming value	Uncertain (1 Byte)	Low	
+Lights.Light DALI.1/3/1	DALI dimming	EIS 2 'Dimming - control' (4 Bit)	Low	
+Lights.Light DALI.1/3/0	DALI on/off	EIS 1 'Switching' (1 Bit)	Low	
+Lights.Light DALI.1/3/3	DALI on/off status	EIS 1 'Switching' (1 Bit)	Low	
+Lights.Light DALI.1/3/4	DALI value status	Uncertain (1 Byte)	Low	
+Lights.Light DALI.1/3/5	DALI failure status	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 1.4/0/0	Device 1 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 1.4/0/1	Device 1 status	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 2.4/1/0	Device 2 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 2.4/1/1	Device 2 status	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 3.4/2/0	Device 3 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 3.4/2/1	Device 3 status	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 4.4/3/0	Device 4 on/off	EIS 1 'Switching' (1 Bit)	Low	
+Monitoring.Appliance 4.4/3/1	Device 4 status	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B4.2/3/0	Stop/step 4	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B4.2/3/1	Movement 4	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B4.2/3/2	Height 4	Uncertain (1 Byte)	Low	
+Blinds.B4.2/3/3	Slat 4	Uncertain (1 Byte)	Low	
+Blinds.B4.2/3/4	Height Status 4	Uncertain (1 Byte)	Low	
+Blinds.B4.2/3/5	Slat Status 4	Uncertain (1 Byte)	Low	
+Blinds.B2.2/1/0	Stop/step 2	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B2.2/1/1	Movement 2	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B2.2/1/2	Height 2	Uncertain (1 Byte)	Low	
+Blinds.B2.2/1/3	Slat 2	Uncertain (1 Byte)	Low	
+Blinds.B2.2/1/4	Height Status 2	Uncertain (1 Byte)	Low	
+Blinds.B2.2/1/5	Slat Status 2	Uncertain (1 Byte)	Low	
+Blinds.B3.2/2/0	Stop/step 3	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B3.2/2/1	Movement 3	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B3.2/2/2	Height 3	Uncertain (1 Byte)	Low	
+Blinds.B3.2/2/3	Slat 3	Uncertain (1 Byte)	Low	
+Blinds.B3.2/2/4	Height Status 3	Uncertain (1 Byte)	Low	
+Blinds.B3.2/2/5	Slat Status 3	Uncertain (1 Byte)	Low	
+Blinds.B1.2/0/1	Movement 1	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B1.2/0/2	Stop/step 1	EIS 1 'Switching' (1 Bit)	Low	
+Blinds.B1.2/0/3	Height 1	Uncertain (1 Byte)	Low	
+Blinds.B1.2/0/4	Slat 1	Uncertain (1 Byte)	Low	
+Blinds.B1.2/0/5	Height Status 1	Uncertain (1 Byte)	Low	
+Blinds.B1.2/0/6	Slat Status 1	Uncertain (1 Byte)	Low	
