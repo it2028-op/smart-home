@@ -1,0 +1,16 @@
+info - 	přístroje - 	https://www.se.com/cz/cs/ 
+		 	https://www.se.com/ww/en/
+	Fan coil	https://www.youtube.com/watch?app=desktop&v=qCVwUFrg1Gs¨
+			https://www.facebook.com/photo/?fbid=694598091090260&set=a.291837534699653
+	PIR system	https://www.kvelektro.cz/blog/clanek/pir-cidlo
+	Media		https://support.knx.org/hc/en-us/articles/115003186125-Communication-Media
+		TP	https://www.u-lux.com/fileadmin/user_upload/Downloads/PDF/Technische_Downloads/en/KNX_Basics.pdf
+		PL,IP,	https://knxcz.cz/images/clanky/KNX_Basics_CZ_screen2.pdf
+		RF
+		pic IP	https://commons.wikimedia.org/wiki/File:UTP_cable.jpg
+	Telegrams	https://cs.wikipedia.org/wiki/Peer-to-peer
+			https://www.intelect.ie/services/intelligent-buildings/the-technology/
+			https://dspace.cvut.cz/bitstream/handle/10467/23271/F3-DP-2014-Kucerova-Hana-prace.pdf?sequence=3&isAllowed=y
+			https://www.yumpu.com/en/document/read/23900183/knx-powerline-pl-110
+	Alexa		https://engineeryoursound.com/how-does-audio-ai-work-a-guide-for-beginners/
+			https://allegro.cz/nabidka/prenosny-reproduktor-amazon-echo-dot-5-modry-15-w-s-alexa-14482377311

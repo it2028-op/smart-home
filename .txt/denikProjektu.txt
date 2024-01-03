@@ -1,0 +1,17 @@
+2.10 	- nahrání světel a žaluzií
+6.10 	- Výměna kufříku 3 za kufřík 5 (technické problémy)
+     	- Reorganizace skupinových adres
+	- Vizualizace 1
+13.10	- nahrání simulace spotřebičů
+	- vizualizace 2 (2-26:50)
+17.10	- nahrání na github + video vizualizace základních přístrojů ve wiseru
+20.10.	- topení - dodělat
+	- CO2 detektor
+2.11.	- senzor pohybu
+	- blocker
+	- grafy ve vizualizaci
+3.11.	- oprava termostatu
+	- nastavení scheduleru světlo s čidlem pohybu
+2.12. 	- práce na vizualizaci
+	- pokus o přidání umělé inteligence Alexy od Amazonu pro ovládání hlasem - neúspěch
+8.12. - 1.1.  => práce na dokumentaci a 3d interaktivního modelu objektu pro využití technologie

@@ -1,0 +1,10 @@
+Otevření okna - E1 na Fan coil akčním členu
+
+
+odkazy	- spojka-telegram
+	- tlačítka-akční členy
+	- přístroje
+upravit anotaci + úvod
+3.2.4 visualization - odkaz na logo KNX, SŠPU
+4.2 - odkaz do google store na Wiser for KNX
+

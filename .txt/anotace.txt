@@ -1,0 +1,9 @@
+Práce předvádí systém inteligentní domácnosti KNX, konkrétně zařízení pracující s tímto systémem a vizualizační prostředí.
+Popisuje konfiguraci zařízení, vlastnosti zařízení a následnou vizualizaci finálního systému. Výsledek je zpracován pomocí aplikace ETS6
+a je vizuálně zobrazitelný pomocí komerčního software Wiser, Uživatel může zhasínat a rozsvěcovat přepínací a stmívací světla, ovládat
+pozici žaluzií, zapnout topný systém stylu FanCoil, detekovat objem CO2 a vlhkost v ovzduší, teplotu a přítomnost v místnosti z chytrého
+telefonu nebo počítače.
+
+Práce seznamuje se systémem pro zařízení inteligentní domácnosti KNX a zároveň uvádí příklad využití technologie na simulované budově
+založené na reálném objektu. Postupně představuje technologii samotnou, jednotlivá využitá zařízení a jejich vlastnosti, jejich konfiguraci
+pomocí aplikace ETS6, následnou vizualizaci skrze komerční software Wiser, 

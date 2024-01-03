@@ -1,0 +1,82 @@
+<mxfile host="Electron" modified="2023-12-29T15:06:59.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.15 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="6gMSPZwGuSsca9a2PSsu" version="22.1.15" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="743" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E8BxfSAv8RuTMesUM-kW-11" target="E8BxfSAv8RuTMesUM-kW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-11" value="Ethernet (KNX IP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="482" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E8BxfSAv8RuTMesUM-kW-17" target="E8BxfSAv8RuTMesUM-kW-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458.0344827586207" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-17" value="Space LYnk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="398" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E8BxfSAv8RuTMesUM-kW-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="568" y="240" as="sourcePoint" />
+            <mxPoint x="618" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="542" y="90" />
+              <mxPoint x="618" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-20" value="Vizualizace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="558" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E8BxfSAv8RuTMesUM-kW-31" target="E8BxfSAv8RuTMesUM-kW-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-31" value="Liniová spojka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="398" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-34" value="Linie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="398" y="310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E8BxfSAv8RuTMesUM-kW-36" target="E8BxfSAv8RuTMesUM-kW-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="190" />
+              <mxPoint x="370" y="190" />
+              <mxPoint x="370" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-36" value="KNX zdroj napájení" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="228" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-37" value="230V" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="148" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E8BxfSAv8RuTMesUM-kW-42" target="E8BxfSAv8RuTMesUM-kW-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-42" value="KNX zdroj napájení" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8BxfSAv8RuTMesUM-kW-46" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="190" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
